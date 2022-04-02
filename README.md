@@ -6,8 +6,8 @@ since switching from Windows to Red Hat Linux in the late '90s.
 The main language I currently use today is 🐍 Python but I love learning new programming languages.
 
 I use the command line whenever I can. For an IDE, I am using vim and tmux but I've recently started
-using [neovim](https://neovim.io/). For more info, check out my
-[📁dotfiles](https://github.com/daviddavis/dotfiles).
+using [neovim](https://neovim.io/). Check out my
+[📁dotfiles](https://github.com/daviddavis/dotfiles) for more info.
 
 When I am not coding I love to ride 🚲 bicycles, read 📚 books, and hang out with my 🐶 pups.
 
