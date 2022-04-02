@@ -1,6 +1,6 @@
 # Hi 👋 I'm David!
 
-I'm a software engineer with a lifelong ❤️ for free open-source software (FOSS) and 🐧 Linux
+I'm a software engineer with a lifelong ❤️ for free and open-source software (FOSS) and 🐧 Linux
 since switching from Windows to Red Hat Linux in the late '90s.
 
 The main language I currently use today is 🐍 Python but I love learning new programming languages.
