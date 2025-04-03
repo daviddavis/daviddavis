@@ -14,6 +14,6 @@ When I am not coding I love to ride my 🚲, read 📚, and hang out with my �
 
 ## Contact me
 
-You can find me on [libera IRC](https://libera.chat/) at `davidd`.
+You can find me on Matrix at `@memorious:matrix.org`.
 
-I'm also on Twitter at [@davidtdavis](https://twitter.com/davidtdavis).
+I'm also on Mastodon at [@daviddavis@mastodon.social](https://mastodon.social/@daviddavis).
