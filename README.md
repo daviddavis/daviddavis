@@ -1,10 +1,9 @@
 # 👋 Hi I'm David (he/him)
 
 I'm a software engineer with a lifelong passion for free and open-source software
-(FOSS) and Linux since switching to Red Hat Linux in the late '90s.
-
-The main language I currently use today is Python 🐍 but I love learning new
-programming languages.
+(FOSS) and Linux since switching to Red Hat Linux in the late '90s. The main 
+language I currently use today is Python 🐍 but I love learning new programming 
+languages.
 
 I use the command line whenever I can. For my IDE, I use neovim or vim and tmux.
 My other interests include ZFS, SBCs (Raspberry Pi), self-hosting, and running
