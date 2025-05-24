@@ -7,7 +7,7 @@ languages.
 
 I use the command line whenever I can. For my IDE, I use neovim or vim and tmux.
 My other interests include ZFS, SBCs (Raspberry Pi), self-hosting, and running
-LLMs to heat up my office during the winter.
+LLMs to heat up my home office during the winter.
 
 Check out my [dotfiles](https://github.com/daviddavis/dotfiles) repo for more
 info about the tools I use and how I configure them.
