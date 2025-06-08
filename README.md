@@ -1,4 +1,4 @@
-# 👋 Hi I'm David (he/him)
+# 👋 Hi I'm David
 
 I'm a software engineer with a lifelong passion for free and open-source software
 (FOSS) and Linux since first installing Red Hat Linux in the late '90s. The main 
